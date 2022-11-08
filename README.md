@@ -33,9 +33,7 @@ truffle(development)> await c.getCID()
 truffle(development)>
 ```
 Using ganache-bin
-Before upload:
-![image](./artifacts/before.png)
-
+Before upload it should be empty on a new contract.
 After upload:
 ![image](./artifacts/after.png)
 
