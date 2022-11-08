@@ -35,6 +35,7 @@ truffle(development)>
 Using ganache-bin
 Before upload it should be empty on a new contract.
 After upload the CID should be the `entry` variable:
+
 ![image](./artifacts/after.png)
 
 ## Usage
